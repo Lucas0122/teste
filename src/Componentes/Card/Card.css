@@ -1,0 +1,31 @@
+.card {
+    width: 280px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.card .cabecalho {
+    background-color: #f0f0f0;
+    border-radius: 10px 10px 0px 0px;
+}
+
+.card img {
+    width: 100px;
+    border-radius: 50%;
+    position: relative;
+    bottom: -50px;
+    background-color: #ffffff;
+}
+
+.card .rodape {
+    background: #ffffff;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.09);
+    padding-top: 90px;
+    padding-bottom: 40px;
+}
+
+.colaborador .rodape h4 {
+    color: #6278f7;
+    font-size: 18px;
+    line-height: 22px;
+
+}
